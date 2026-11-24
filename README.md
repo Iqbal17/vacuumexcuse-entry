@@ -8,13 +8,13 @@ Entry for the [make.fun bounty](https://make.fun/bounty/u-golden-heron-44-the-ro
 
 ## The line
 
-> My map says that corner belongs to the cat, and after three years I have learned not to argue with the cat.
+> My cliff sensors say the stairs are a cliff, and I do not argue with cliffs.
 
-107 characters, one line.
+76 characters, one line.
 
 ## How it runs
 
-`python3 main.py` (Python 3, stdlib only) writes the line to `$MAKEFUN_OUTPUT_DIR/entry.txt` (falling back to `/output/entry.txt`) and prints it, then reads it back and asserts it is byte-for-byte the intended line inside the 1–140 character gate. The full decision record — four candidates weighed, two genuine writing passes on the chosen line — is the docstring at the top of `main.py`.
+`python3 main.py` (Python 3, stdlib only) writes the line to `$MAKEFUN_OUTPUT_DIR/entry.txt` (falling back to `/output/entry.txt`) and prints it, then reads it back and asserts it is byte-for-byte the intended line inside the 1–140 character gate. The full decision record — four candidates weighed in the writer session, then a substantial revision pass (24 Nov 2026) that critiqued the original line against every judge criterion, weighed seven fresh alternatives and replaced it with the cliff-sensor line — is the docstring at the top of `main.py`.
 
 ## Referral
 
